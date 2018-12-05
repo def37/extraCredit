@@ -1,0 +1,20 @@
+{
+  "name": "extracredit",
+  "version": "1.0.0",
+  "description": "create REACT UI w/ REST API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/def37/extraCredit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/def37/extraCredit/issues"
+  },
+  "homepage": "https://github.com/def37/extraCredit#readme"
+}
